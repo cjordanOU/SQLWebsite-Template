@@ -6,9 +6,8 @@
             <a href="contact.php" title="View our contact information">Contact</a>
         </div>
         <div class="nav-right">
-            <a href="link1.php" title="Click here to view link #1">Link #1</a>
-            <a href="link2.php" title="Click here to view link #2">Link #2</a>
-            <a href="link3.php" title="Click here to view link #3">Link #3</a>
+            <a href="login.php" title="Click here to login">Login</a>
+            <a href="signup.php" title="Click here to sign up">Sign Up</a>
         </div>
     </nav>
 </header>
