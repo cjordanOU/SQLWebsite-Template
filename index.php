@@ -15,7 +15,7 @@
 
         <section>
             <div class="centered container">
-                <img src="Images/img-placeholder.png">
+                <img src="Images/img-placeholder.png" alt="this is the alt text">
             </div>
 
             <div class="centered container">

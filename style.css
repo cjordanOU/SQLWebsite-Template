@@ -55,8 +55,8 @@ nav a {
 
 nav a:hover {
     color: #ffffff;
-    transition: color 0.2s;
     -webkit-transition: color 0.2s;
+    transition: color 0.2s;
 }
 
 section {
@@ -74,4 +74,34 @@ section {
 
 .type-2 {
     background-color: #1e2f52;
+}
+
+.login-area {
+    padding: 3.5rem 3rem 6rem 3rem;
+    background: #182644;
+    box-shadow: 0 0 2px rgba(0,0,0,.14), 0 2px 4px rgba(0,0,0,.28);
+    max-width: 500px;
+}
+
+#loginForm input, #signupForm input {
+    margin: .5rem 0;
+}
+
+.fancyButton-1 {
+    background: #396fe4;
+    border-radius: 2px;
+    padding: 12px 36px;
+    color: white;
+    text-decoration: none;
+    
+}
+
+.fancyButton-1:hover {
+    background: #466dc0;
+    -webkit-transition: background 0.2s;
+    transition: background 0.2s;
+}
+
+.fancyButton-1:active {
+    background: #123862;
 }
