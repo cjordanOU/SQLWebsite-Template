@@ -93,7 +93,6 @@ section {
     padding: 12px 36px;
     color: white;
     text-decoration: none;
-    
 }
 
 .fancyButton-1:hover {
@@ -104,4 +103,22 @@ section {
 
 .fancyButton-1:active {
     background: #123862;
+}
+
+.fancyButton-2 {
+    background: white;
+    border-radius: 2px;
+    padding: 12px 36px;
+    color: #182644;
+    text-decoration: none;
+}
+
+.fancyButton-2:hover {
+    background: #7988a8;
+    -webkit-transition: background 0.2s;
+    transition: background 0.2s;
+}
+
+.fancyButton-2:active {
+    background: #5d738a;
 }
