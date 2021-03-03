@@ -11,7 +11,7 @@
     </head>
 
     <body>
-        <?php include('Includes/header.php'); ?>
+        <?php require('Includes/header.php'); ?>
 
         <section>
             <div class="centered container login-area">
